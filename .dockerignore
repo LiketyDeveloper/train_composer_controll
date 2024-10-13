@@ -1,0 +1,5 @@
+**/__pycache__
+*/_outputs
+*/_tests
+*/.venv
+*/src/ai/dataset

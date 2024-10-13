@@ -1,0 +1,8 @@
+__pycache__
+.venv
+
+dataset/
+
+# Directories for testing
+_outputs
+_tests
